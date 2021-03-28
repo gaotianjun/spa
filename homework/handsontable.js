@@ -10,7 +10,7 @@ $(function () {
 
     ],
 
-        container = $("#hansontable");
+        container = $("#handsontable");
     var hot = new Handsontable(container.get(0),
         {
             data: data,
