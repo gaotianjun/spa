@@ -8,7 +8,7 @@ $(function () {
         },
         tooltip: {},
         legend: {
-            data: ['销量']
+            data: ['']
         },
         xAxis: {
             data: xData
